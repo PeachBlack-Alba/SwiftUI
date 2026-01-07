@@ -1,19 +1,8 @@
-<img src="images/icon/banner.png"/>
-
-[![Build Status](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS%20%7C%20macOS%20%7C%20watchOS-green.svg)](https://github.com/Jinxiansen/SwiftUI)
-[![Swift](https://img.shields.io/badge/Swift-5.1-orange.svg)](https://swift.org)
-[![Xcode](https://img.shields.io/badge/Xcode-11.0-blue.svg)](https://developer.apple.com/xcode)
-[![Xcode](https://img.shields.io/badge/macOS-15.0-blue.svg)](https://developer.apple.com/macOS)
-[![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)
-
-
-This article refers to SwiftUI [apple example](https://github.com/Jinxiansen/SwiftUI/tree/doc) and records the results of the exploration here, I hope to be helpful to you.
 
 For the content described in this article, by default you have some experience based on Swift language development, so it will not describe every detail in detail; if you have doubts about Swift syntax, you can learn [Swift](https://swift.org) Grammar.
 
 When learning and using `SwiftUI`, if you have any questions, you can join the SwiftUI QQ Group: **18552966** to discuss communication.
 
-[中文版🇨🇳](README_CN.md)
 
 > Recommended Preview: [Windows 11](https://github.com/Jinxiansen/Windows11) desktop client implemented using **SwiftUI**.
 > 
@@ -22,7 +11,6 @@ When learning and using `SwiftUI`, if you have any questions, you can join the S
 
 ### ⭐️ Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Jinxiansen/SwiftUI.svg)](https://starchart.cc/Jinxiansen/SwiftUI)
 
 ### 💻 Requirements
 
